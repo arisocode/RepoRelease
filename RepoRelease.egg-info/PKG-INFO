@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: RepoRelease
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/arisocode/reporelease
+Author: arisocode
+Author-email: aricabrerac21@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
